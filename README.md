@@ -1,5 +1,20 @@
+### Hi there 👋, Sarvar Musazade
+#### Full Stack Developer
+I am Computer Engineering Student at Suleyman Demirel University
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' color="orange" height='40'>](https://github.com/Sarvar55)  
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarvar55)  
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvar55)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/Sarvar55)  
+
+
+#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true&theme=radical)
 
