@@ -1,31 +1,5 @@
-# Hi there
-
-#Hello I am Computer Engineering Student at Suleyman Demirel University
-
-### Hi there 👋, Sarvar Musazade
-#### Full stack Developer
-![Full stack Developer](https://avatars.githubusercontent.com/u/76266468?v=4)
-
-Hello I am Computer Engineering Student at Suleyman Demirel University
-
-Skills: C/ JAVA /VUE JS  / JS / HTML / CSS / SCCS / SASS
-<h1 align="center">Hi 👋, I'm Sarvar55</h1>
-<h3 align="center">Hello I am Computer Engineering Student at Suleyman Demirel University</h3>
-
-
-
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' color="orange" height='40'>](https://github.com/Sarvar55)  
-
-
-
-
-
-
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true&theme=radical)
 
