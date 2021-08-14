@@ -1,5 +1,5 @@
 ### Hi there 👋, Sarvar Musazade
-#### Full Stack Developer
+#### 
 I am Computer Engineering Student at Suleyman Demirel University
 
 - 🔭 I’m currently working on this page. 
