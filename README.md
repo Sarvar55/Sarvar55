@@ -1,6 +1,6 @@
 ### Hi there 👋, Sarvar Musazade
 #### 
-I am Computer Engineering Student at Suleyman Demirel University
+I am Computer Engineering Student at Suleyman Demirel University 2/4
 
 - 🔭 I’m currently working on this page. 
 ####
