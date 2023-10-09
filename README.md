@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there 👋, Sarvar Musazade<br><br>I am Computer Engineering Student at Suleyman Demirel University 3/4
+<br>Hi there 👋, Sarvar Musazade<br><br>I am Computer Engineering Student at Suleyman Demirel University 4/4
 
 
   ## 🌐 Socials:
