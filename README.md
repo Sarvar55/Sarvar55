@@ -5,6 +5,7 @@ I'm passionate about sharing my learnings on Medium and enjoy solving problems o
 
 <br>
 
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 ## 🌐 Socials:
 
 <div align="center">
