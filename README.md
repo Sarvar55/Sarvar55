@@ -45,9 +45,19 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
  </p>
 
- <div align="center">
-![Sarvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true&theme=Vue_Dark)
-</div>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true" />
+</picture>
+
  <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
