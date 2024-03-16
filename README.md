@@ -13,7 +13,7 @@
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/sarvar-musazade&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 <a href="https://twitter.com/Server08108917">
-    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@Server08108917helo&color=000&logo=x" height="22px">
+    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@Server&color=000&logo=x" height="22px">
 </a>
 </a>
 <a href="mailto:sarvar55mszde@gmail.com">
