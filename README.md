@@ -42,6 +42,12 @@ public class Sarvar {
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=sarvar55mszde@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
+<h2>:books: My personal portfolio</h2>
+<a href="https://sarvarmusa.vercel.app/">
+    <img alt="link to the my Website" src="https://sarvarmusa.vercel.app/">
+</a>
+</br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 </br>
@@ -67,13 +73,6 @@ public class Sarvar {
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
 </p>
-
-<h2>:books: My personal portfolio</h2>
-<a href="https://github.com/Sarvar55/portfolio">
-    <img alt="link to the repository of my personal portfolio" src="https://sarvarmusa.vercel.app/">
-</a>
-</br>
-
 
 </br>
 <div align="center"> 
