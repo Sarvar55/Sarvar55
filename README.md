@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=64F772&center=true&vCenter=true&random=false&width=435&lines=I+'m+Sarvar;Software+Engineer+Student;I+am+an+open+source+lover;A+Tech+Blogger"></a>
 </div>
 
-```json
+```java
 import org.json.JSONObject;
 
 public class CreativeProfileGenerator {
