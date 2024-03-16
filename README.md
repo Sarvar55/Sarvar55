@@ -6,7 +6,7 @@
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Sarvar55">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Sarvar55?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Sarvar55?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Sarvar55" height="22px">
 </a>
 
 <a href="[https://linkedin.com/in/](https://linkedin.com/in/sarvar-musazade-603445212)">
@@ -17,6 +17,6 @@
 </a>
 </a>
 <a href="mailto:sarvar55mszde@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&messagesarvar55mszde@gmail.com=&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=sarvar55mszde@gmail.com=&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
