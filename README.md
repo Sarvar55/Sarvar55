@@ -46,7 +46,7 @@
  </p>
 
  <div align="center">
-![Sarvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true&theme=Vue+Dark)
+![Sarvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true&theme=Vue_Dark)
 </div>
  <div align="center">
     <a href="https://git.io/typing-svg">
