@@ -44,6 +44,7 @@ public class Sarvar {
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
+</br>
 <p align="left"> 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></code>
@@ -65,8 +66,16 @@ public class Sarvar {
 <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
- </p>
+</p>
 
+<h2>:books: My personal portfolio</h2>
+<a href="https://github.com/Sarvar55/portfolio">
+    <img alt="link to the repository of my personal portfolio" src="https://sarvarmusa.vercel.app/">
+</a>
+</br>
+
+
+</br>
 <div align="center"> 
 <picture>
   <source
@@ -80,6 +89,7 @@ public class Sarvar {
   <img src="https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true" />
 </picture>
 </div>
+
 
  <div align="center">
     <a href="https://git.io/typing-svg">
