@@ -4,6 +4,17 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=64F772&center=true&vCenter=true&random=false&width=435&lines=I+'m+Sarvar;Software+Engineer+Student;I+am+an+open+source+lover;A+Tech+Blogger"></a>
 </div>
 
+```json
+me:{
+name:Sarvar,
+surname:Musazade,
+school:{
+univesity:Süleyman Demirel Unversity,
+class:4
+},
+
+```
+
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Sarvar55">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Sarvar55?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Sarvar55" height="22px">
