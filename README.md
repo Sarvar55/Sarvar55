@@ -45,6 +45,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
  </p>
 
+<div align="center"> 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true&theme=dark"
@@ -55,8 +56,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true" />
-<source srcset="https://streak-stats.demolab.com?user=Sarvar55&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" />
 </picture>
+</div>
 
  <div align="center">
     <a href="https://git.io/typing-svg">
