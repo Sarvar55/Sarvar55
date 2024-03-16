@@ -5,16 +5,20 @@
 </div>
 
 ```json
-{
-  "about_me": {
-    "name": "Sarvar",
-    "surname": "Musazade",
-    "education": {
-      "university": "Süleyman Demirel University",
-      "class": 4
-    },
+import org.json.JSONObject;
+
+public class CreativeProfileGenerator {
+    public static void main(String[] args) {
+        JSONObject aboutMe = new JSONObject()
+                .put("name", "Sarvar")
+                .put("surname", "Musazade")
+                .put("education", new JSONObject()
+                        .put("university", "Süleyman Demirel University")
+                        .put("class", 4));
+        System.out.println(aboutMe.toString());
+    }
 }
-}
+
 
 ```
 
