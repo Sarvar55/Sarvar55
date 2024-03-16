@@ -22,7 +22,6 @@ public class Sarvar {
                 .put("class", 4);
 
         Sarvar sarvarInfo = new Sarvar("Sarvar", "Musazade", educationInfo);
-        System.out.println(sarvarInfo.toJSON());
     }
 }
 ```
