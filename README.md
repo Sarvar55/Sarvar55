@@ -4,14 +4,33 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=64F772&center=true&vCenter=true&random=false&width=435&lines=I+'m+Sarvar;Software+Engineer+Student;I+am+an+open+source+lover;A+Tech+Blogger"></a>
 </div>
 
-```json
-me:{
-name:Sarvar,
-surname:Musazade,
-school:{
-univesity:Süleyman Demirel Unversity,
-class:4
-},
+```java
+public class PersonalInfo {
+    public static void main(String[] args) {
+        System.out.println("\u001B[36m***************************");
+        System.out.println("*      \u001B[35mKişisel Bilgiler   \u001B[36m*");
+        System.out.println("***************************");
+        System.out.println("\u001B[32m      _____________       ");
+        System.out.println("     /             \\     ");
+        System.out.println("    /               \\    ");
+        System.out.println("   /_________________\\  ");
+        System.out.println("   | Ad:      Sarvar |   ");
+        System.out.println("   | Soyad: Musazade |   ");
+        System.out.println("   \\_________________/  ");
+        System.out.println("\u001B[36m***************************");
+        System.out.println("*    \u001B[35mEğitim Bilgileri     \u001B[36m*");
+        System.out.println("***************************");
+        System.out.println("\u001B[32m      _____________       ");
+        System.out.println("     /             \\     ");
+        System.out.println("    /               \\    ");
+        System.out.println("   /_________________\\  ");
+        System.out.println("   | Üniversite: Süleyman|");
+        System.out.println("   | Demirel Üniversitesi|");
+        System.out.println("   | Sınıf:           4 | ");
+        System.out.println("   \\_________________/  ");
+    }
+}
+
 
 ```
 
