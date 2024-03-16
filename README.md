@@ -5,21 +5,26 @@
 </div>
 
 ```java
-import org.json.JSONObject;
+public class Sarvar {
+    private final String name;
+    private final String surname;
+    private final JSONObject education;
 
-public class CreativeProfileGenerator {
-    public static void main(String[] args) {
-        JSONObject aboutMe = new JSONObject()
-                .put("name", "Sarvar")
-                .put("surname", "Musazade")
-                .put("education", new JSONObject()
-                        .put("university", "Süleyman Demirel University")
-                        .put("class", 4));
-        System.out.println(aboutMe.toString());
+    public Sarvar(String name, String surname, JSONObject education) {
+        this.name = name;
+        this.surname = surname;
+        this.education = education;
+    }
+
+    public static void main(String...ideasForImprovment) {
+        JSONObject educationInfo = new JSONObject()
+                .put("university", "Süleyman Demirel University")
+                .put("class", 4);
+
+        Sarvar sarvarInfo = new Sarvar("Sarvar", "Musazade", educationInfo);
+        System.out.println(sarvarInfo.toJSON());
     }
 }
-
-
 ```
 
 <h2>:busts_in_silhouette: How to reach me</h2>
