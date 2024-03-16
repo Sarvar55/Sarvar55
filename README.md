@@ -5,32 +5,16 @@
 </div>
 
 ```java
-public class PersonalInfo {
-    public static void main(String[] args) {
-        System.out.println("\u001B[36m***************************");
-        System.out.println("*      \u001B[35mKişisel Bilgiler   \u001B[36m*");
-        System.out.println("***************************");
-        System.out.println("\u001B[32m      _____________       ");
-        System.out.println("     /             \\     ");
-        System.out.println("    /               \\    ");
-        System.out.println("   /_________________\\  ");
-        System.out.println("   | Ad:      Sarvar |   ");
-        System.out.println("   | Soyad: Musazade |   ");
-        System.out.println("   \\_________________/  ");
-        System.out.println("\u001B[36m***************************");
-        System.out.println("*    \u001B[35mEğitim Bilgileri     \u001B[36m*");
-        System.out.println("***************************");
-        System.out.println("\u001B[32m      _____________       ");
-        System.out.println("     /             \\     ");
-        System.out.println("    /               \\    ");
-        System.out.println("   /_________________\\  ");
-        System.out.println("   | Üniversite: Süleyman|");
-        System.out.println("   | Demirel Üniversitesi|");
-        System.out.println("   | Sınıf:           4 | ");
-        System.out.println("   \\_________________/  ");
-    }
+{
+  "about_me": {
+    "name": "Sarvar",
+    "surname": "Musazade",
+    "education": {
+      "university": "Süleyman Demirel University",
+      "class": 4
+    },
 }
-
+}
 
 ```
 
