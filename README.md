@@ -44,7 +44,7 @@ public class Sarvar {
 </a>
 </br>
 <h2>:books: My personal portfolio</h2>
-<a href="https://sarvarmusa.vercel.app/">Visit my Website</a>
+<a href="https://sarvardev.vercel.app/">Visit my Website</a>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
